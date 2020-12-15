@@ -1,4 +1,4 @@
-# Club - A Cross Chain Interactive Video Communication Network
+# Club - An Cross Chain Interactive Video Protocol and Network
 
 * **Project:** Club A Cross Chain Interactive Video Communication Network
 
@@ -6,12 +6,12 @@
 
 ### Overview
 
-This grant application supports the development of a cross chain interactive video communication network called CLUB. 
-It can be used in most blockchain to implement real time video communication for the DID or wallet users.
-CLUB is already implemeneted on Ethereum and ElastOS.
-Within the framework of this grant application we will provide an implementation of cross chain vedio communication with the support of Polkadot Address and Ethereum address.
-We will also implement the most wanted billing fucntion of CLUB in Substrate. 
-  * Club is a decentralized interactive video network which enables real time video communication between blockchain users.
+We are applying this grant to enable real time messaging and video chat available to both Polkadot and Ethereum users based on Club. 
+Club is an interactive real time video protocol and network which can be used in most blockchain today to provide real time video communication for the wallet users and blockchain developers.
+Club is already implemeneted on Ethereum and ElastOS.
+We are going to provide an implementation of cross chain real time vedio chat with the support of Polkadot Address and Ethereum address.
+We will also implemnet the most wanted billing fucntion of Club in Substrate. 
+  * Club is a decentralized interactive video network which enables real time video communication between blockchain users. Club includes a web, IOS and android client for end user and the Club network could be the backbone for third party applications.
   * By integrating WebRTC、DID(Decentralized IDentity) and decentralized peer to peer mesaging technologies (Whisper), Club enables real time audio/vedio communication and file transfer between wallet users.
   * Club provide the applicaton developer the missing parties of WebRTC to build a realtime video communication application, such as 
   the signalling layer for WebRTC, the media server, the account system of DID and peer to peer messaging found in most blockchain project.
